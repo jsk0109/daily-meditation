@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://1min-meditation.netlify.app/sitemap.xml
