@@ -1,6 +1,2 @@
 /*
   Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' https://cdn.jsdelivr.net 'unsafe-inline'
-
-function oneTime() {
-  window.location.href = 'https://buy.stripe.com/test_28o8uKb1S5ZQ8PS000';
-}
